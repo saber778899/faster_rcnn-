@@ -1,6 +1,6 @@
 # 基于Faster R-CNN的安全帽目标检测
 
-数据集下载地址：https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection/data
+数据集下载地址：https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection/data 将其放到./data文件夹下解压
 
 使用版本：  
 
